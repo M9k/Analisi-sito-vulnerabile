@@ -134,8 +134,6 @@ Ora passiamo alla parte interessante, la funzione che genera il PDF e lo fa scar
 
 Gli alert di debug commentati non sono eleganti, come pure il 127.0.0.1 di prova e quel _2_LO STIVALE.pdf che non mi sembra codice JS valido.
 
-EDIT: Mi sono accorto che ho copiato un codice commentato, quello reale era più sotto, ma il comportamento era quello a grandi linee.
-
 Guardiamo chk_modello.php e proviamo a chiamarlo senza nessun parametro (sono pigro e non voglio compilare tutto), questa è la risposta:
 
 ~~~
